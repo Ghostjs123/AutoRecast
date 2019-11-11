@@ -1,0 +1,8 @@
+## Interface: 11300
+## Title: AutoRecast
+## Version: 1.0
+## Notes: Recasts fishing
+## Author: Kaymon
+# SavedVariables: AutoRecast_Config
+
+AutoRecast.lua
